@@ -7,7 +7,8 @@ tags: "dns, dyndns, script, tutorials, he.net"
 ---
 
 #DynDNS with HE.NET  
-##How to Make your own DynDNS for Free with HE.NET and CURL  
+##How to Make your own DynDNS for Free with HE.NET and CURL
+*If you want a Windows version <a href="https://github.com/bennettp123/dns.he.net-updater">PowerShell updater for dns.he.net </a>*
 
 ###1' Create an acount on <a href="https://dns.he.net">dns.he.net</a>  
 
