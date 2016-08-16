@@ -6,6 +6,10 @@ category: "dyndns"
 tags: "dns, dyndns, script, tutorials, he.net"
 ---
 
+#REQUIREMENTS
+
+  $ apt-get install -y dnstools curl
+
 #DynDNS with HE.NET  
 ##How to Make your own DynDNS for Free with HE.NET and CURL
 *If you want a Windows version <a href="https://github.com/bennettp123/dns.he.net-updater">PowerShell updater for dns.he.net </a>*
