@@ -8,7 +8,7 @@ tags: "dns, dyndns, script, tutorials, he.net"
 
 #REQUIREMENTS
 
-  $ apt-get install -y dnstools curl
+  $ apt-get install -y dnsutils curl
 
 #DynDNS with HE.NET  
 ##How to Make your own DynDNS for Free with HE.NET and CURL
